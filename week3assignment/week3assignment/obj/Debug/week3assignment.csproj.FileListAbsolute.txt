@@ -1,0 +1,14 @@
+C:\Users\GAMING\OneDrive - MMU\Desktop\uni\year2\block1\assignment\week3\week3assignment\week3assignment\bin\Debug\week3assignment.exe.config
+C:\Users\GAMING\OneDrive - MMU\Desktop\uni\year2\block1\assignment\week3\week3assignment\week3assignment\bin\Debug\week3assignment.exe
+C:\Users\GAMING\OneDrive - MMU\Desktop\uni\year2\block1\assignment\week3\week3assignment\week3assignment\bin\Debug\week3assignment.pdb
+C:\Users\GAMING\OneDrive - MMU\Desktop\uni\year2\block1\assignment\week3\week3assignment\week3assignment\obj\Debug\week3assignment.csproj.AssemblyReference.cache
+C:\Users\GAMING\OneDrive - MMU\Desktop\uni\year2\block1\assignment\week3\week3assignment\week3assignment\obj\Debug\week3assignment.csproj.CoreCompileInputs.cache
+C:\Users\GAMING\OneDrive - MMU\Desktop\uni\year2\block1\assignment\week3\week3assignment\week3assignment\obj\Debug\week3assignment.exe
+C:\Users\GAMING\OneDrive - MMU\Desktop\uni\year2\block1\assignment\week3\week3assignment\week3assignment\obj\Debug\week3assignment.pdb
+C:\Users\20049623\OneDrive - MMU\Desktop\uni\year2\block1\assignment\week3\week3assignment\week3assignment\bin\Debug\week3assignment.exe.config
+C:\Users\20049623\OneDrive - MMU\Desktop\uni\year2\block1\assignment\week3\week3assignment\week3assignment\bin\Debug\week3assignment.exe
+C:\Users\20049623\OneDrive - MMU\Desktop\uni\year2\block1\assignment\week3\week3assignment\week3assignment\bin\Debug\week3assignment.pdb
+C:\Users\20049623\OneDrive - MMU\Desktop\uni\year2\block1\assignment\week3\week3assignment\week3assignment\obj\Debug\week3assignment.csprojAssemblyReference.cache
+C:\Users\20049623\OneDrive - MMU\Desktop\uni\year2\block1\assignment\week3\week3assignment\week3assignment\obj\Debug\week3assignment.csproj.CoreCompileInputs.cache
+C:\Users\20049623\OneDrive - MMU\Desktop\uni\year2\block1\assignment\week3\week3assignment\week3assignment\obj\Debug\week3assignment.exe
+C:\Users\20049623\OneDrive - MMU\Desktop\uni\year2\block1\assignment\week3\week3assignment\week3assignment\obj\Debug\week3assignment.pdb
